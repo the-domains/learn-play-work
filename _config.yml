@@ -1,14 +1,14 @@
 layout_spectrum: 0.9940776221919805
-typography_spectrum: 0.11360380542464554
+typography_spectrum: 0.1289533250965178
 color:
-  brandStrength: 0.5118697823490947
-  lightness: 0.7963609586004168
-  saturation: 0.4431275373790413
-  rhythmicContrast: 0.5867751890327781
+  brandStrength: 0.2692427677102387
+  lightness: 0.4567115113604814
+  saturation: 0.5700707158539444
+  rhythmicContrast: 0.4581650362815708
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
 name: learn play work
