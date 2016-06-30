@@ -6,9 +6,9 @@ color:
   saturation: 0.4431275373790413
   rhythmicContrast: 0.5867751890327781
   brandColors:
-    - '#DC3522'
-    - '#D9CB9E'
-    - '#374140'
-    - '#2A2C2B'
-    - '#1E1E20'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: learn play work
